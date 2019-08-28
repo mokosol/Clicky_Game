@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "image": "https://images.pexels.com/photos/730539/pexels-photo-730539.jpeg?cs=srgb&dl=animals-carnivore-close-up-730539.jpg&fm=jpg",
+    "clicked": false
+  },
+  {
+    "id": 2,
+    "image": "https://images.pexels.com/photos/53001/cougar-mountain-lion-puma-concolor-big-cat-53001.jpeg?cs=srgb&dl=animal-close-up-cougar-53001.jpg&fm=jpg",
+    "clicked": false
+  },
+  {
+    "id": 3,
+    "image": "https://images.pexels.com/photos/34106/zebra-wild-animal-africa-stripes.jpg?cs=srgb&dl=africa-animals-safari-34106.jpg&fm=jpg",
+    "clicked": false
+  },
+  {
+    "id": 4,
+    "image": "https://images.pexels.com/photos/2642250/pexels-photo-2642250.jpeg?cs=srgb&dl=animal-animal-photography-bengal-tiger-2642250.jpg&fm=jpg",
+    "clicked": false
+  },
+  {
+    "id": 5,
+    "image": "https://images.pexels.com/photos/2323411/pexels-photo-2323411.jpeg?cs=srgb&dl=animal-animal-photography-big-cat-2323411.jpg&fm=jpg",
+    "clicked": false
+  },
+  {
+    "id": 6,
+    "image": "https://images.pexels.com/photos/155164/pexels-photo-155164.jpeg?cs=srgb&dl=animal-jaguar-pattern-155164.jpg&fm=jpg",
+    "clicked": false
+  },
+  {
+    "id": 7,
+    "image": "https://images.pexels.com/photos/920156/pexels-photo-920156.jpeg?cs=srgb&dl=animal-animal-photography-close-up-920156.jpg&fm=jpg",
+    "clicked": false
+  },
+  {
+    "id": 8,
+    "image": "https://images.pexels.com/photos/54081/giraffes-south-africa-safari-africa-54081.jpeg?cs=srgb&dl=africa-animals-giraffes-54081.jpg&fm=jpg",
+    "clicked": false
+  },
+  {
+    "id": 9,
+    "image": "https://images.pexels.com/photos/469676/pexels-photo-469676.jpeg?cs=srgb&dl=animal-antelope-barbaric-469676.jpg&fm=jpg",
+    "clicked": false
+  },
+  {
+    "id": 10,
+    "image": "https://images.pexels.com/photos/609749/pexels-photo-609749.jpeg?cs=srgb&dl=animal-animal-photography-elephant-609749.jpg&fm=jpg",
+    "clicked": false
+  },
+  {
+    "id": 11,
+    "image": "https://images.pexels.com/photos/774544/pexels-photo-774544.jpeg?cs=srgb&dl=animal-carnivore-dangerous-774544.jpg&fm=jpg",
+    "clicked": false
+  },
+  {
+    "id": 12,
+    "image": "https://images.pexels.com/photos/612967/pexels-photo-612967.jpeg?cs=srgb&dl=animal-animal-photography-giraffe-612967.jpg&fm=jpg",
+    "clicked": false
+  }
+]
+
+
+
